@@ -1,0 +1,19 @@
+body{
+    margin: 30px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+button{
+    border: none;
+    border-radius: 3px;
+    background-color: seagreen;
+    color: white;
+    padding: 5px 10px;
+    font-family: 'Open Sans', sans-serif;
+    cursor: pointer
+}
+
+hr{
+    color: rgb(238, 238, 238)
+}
